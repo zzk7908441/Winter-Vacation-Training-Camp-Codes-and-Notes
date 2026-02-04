@@ -14,7 +14,6 @@ agent_file = {
     "Agent": "007_Bond",
     "Mission_ID": mission_id,
     "Location": coords,
-    "Equipment": list(unique_items)
-}
+    "Equipment": list(unique_items)}
 
 print(agent_file)
